@@ -11,5 +11,5 @@ Let’s go 💪
 
 ---
 
-### ✅ Day : [06/07/25]
+### ✅ Day 0 : [06/07/25]
 Started the challenge! 🚀  
