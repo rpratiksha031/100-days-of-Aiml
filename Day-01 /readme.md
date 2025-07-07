@@ -1,6 +1,6 @@
 # 🚀 100 Days of AI & ML – Day 1
 
-### 📅 Date: [Replace with today's date]
+### 📅 Date: [07/07/25]
 
 ---
 
