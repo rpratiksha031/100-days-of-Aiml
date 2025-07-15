@@ -1,4 +1,4 @@
-# 🐦 Day 8 of 100 Days of AI/ML — Working with My Own Dataset Package: `birddata`
+# 🐦 Day 9 of 100 Days of AI/ML — Working with My Own Dataset Package: `birddata`
 
 Today, I explored how to **use my own Python package `birddata`** in a real machine learning workflow — from importing, resolving import errors, and training a classification model!
 
